@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+debug_screen.png
+test_dialog.png
+tamam_crop.png
+_temp_ocr.png
+_debug_yuklenen_liste.txt
+son_durum.json

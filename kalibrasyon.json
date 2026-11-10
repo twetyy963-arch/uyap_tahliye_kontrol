@@ -1,0 +1,62 @@
+{
+  "btn_evrak_hazirlama": [
+    294,
+    55
+  ],
+  "txt_dosya_no_1": [
+    149,
+    206
+  ],
+  "btn_sorgula_1": [
+    1117,
+    291
+  ],
+  "btn_tamam_1": [
+    1386,
+    765
+  ],
+  "btn_kapat_1": [
+    1522,
+    110
+  ],
+  "btn_denetim_sorgu": [
+    318,
+    58
+  ],
+  "txt_dosya_no_2": [
+    142,
+    204
+  ],
+  "btn_sorgula_2": [
+    1122,
+    289
+  ],
+  "btn_tamam_2": [
+    1386,
+    766
+  ],
+  "area_denetim_tablo": [
+    236,
+    204
+  ],
+  "btn_kapat_2": [
+    1522,
+    108
+  ],
+  "btn_sorgu_onay_1": [
+    1401,
+    765
+  ],
+  "btn_cezaevi_uyari_tamam": [
+    922,
+    328
+  ],
+  "btn_sorgu_onay_2": [
+    1394,
+    765
+  ],
+  "btn_denetim_uyari_tamam": [
+    922,
+    329
+  ]
+}
